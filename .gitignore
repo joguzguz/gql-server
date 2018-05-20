@@ -1,0 +1,5 @@
+# Downloaded dependencies
+node_modules
+
+# Webstorm configuration files
+.idea
